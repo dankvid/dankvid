@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dankvid
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning and improve my skills in HTML, CSS and PHP
+- 🌱 At the moment I am learning and improving my skills in HTML, CSS and PHP
 - 💞️ I’m looking to collaborate on the GKSE Project
 - 📫 I’m still working on a website where you can reach me 
 
