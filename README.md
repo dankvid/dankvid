@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dankvid
 - 👀 
-- 🌱 At the moment I am learning and improving my skills in HTML, CSS and PHP
-- 💞️ Currently I am working on the GKSE project
+- 🌱 At the moment I am learning and improving my skills in HTML, CSS, PHP and Java
+- 💞️ Currently I am working at GKSE
 - 📫 I’m still working on a website where you can reach me 
 
 <!---
