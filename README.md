@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dankvid
-- 🖥️ Using Debian and Manjaro for daily business
-- 🌱 memes
+- 🖥️ Programming in Java and Python
+- 🌱 Memes
 - 📫 In progress
 
 <!---
