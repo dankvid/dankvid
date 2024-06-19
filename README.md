@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dankvid
-- 🖥️ Programming in Java and Python
+- 🖥️ Programming in Java, C and Python
 - 🌱 Memes
 - 📫 In progress
 
