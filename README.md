@@ -3,8 +3,6 @@
 - 🌱 Memes
 - 📫 In progress
 
-## GitHub Statistiken
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dankvid&show_icons=true&theme=radical)
 
 <!---
