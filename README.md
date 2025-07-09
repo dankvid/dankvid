@@ -62,8 +62,7 @@
 
 ## 🔥 Current Focus
 
-- 🌱 **Learning:** Spring Boot & Advanced Database Design
-- 🔨 **Building:** REST APIs and microservices architecture
+- 🌱 **Learning:** Jetpack Compose & Android Development
 - 📚 **Studying:** Data Structures & Algorithms for upcoming exams
 - 🎯 **Goal:** Contributing to open source projects
 
@@ -71,18 +70,6 @@
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dankvid&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dankvid&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🤝 Let's Connect!
