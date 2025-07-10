@@ -46,26 +46,6 @@
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![Nextcloud Badge](https://img.shields.io/badge/Nextcloud-0082C9?logo=nextcloud&logoColor=fff&style=for-the-badge)
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dankvid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankvid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=dankvid&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-## 🔥 Current Focus
-
-- 🌱 **Learning:** Jetpack Compose & Android Development
-- 📚 **Studying:** Data Structures & Algorithms for upcoming exams
-- 🎯 **Goal:** Contributing to open source projects
-
 ## 🎭 Daily Dose of Programming Humor
 
 <div align="center">
