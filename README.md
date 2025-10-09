@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **4th semester Computer Science student** with a passion for clean code
+- 🎓 **5th semester Computer Science student**
 - 💻 **Full-stack developer** comfortable with both backend and frontend
 - 🔥 **Always learning** new technologies and best practices
 - 😄 **Fun fact:** I debug my code better after looking at memes
