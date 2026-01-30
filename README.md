@@ -1,15 +1,8 @@
-# Hi there, I'm dankvid! 👋
+# Hi there, I'm David! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Code+Enthusiast;Meme+Connoisseur;Always+Learning!" alt="Typing SVG" />
 </div>
-
-## 🚀 About Me
-
-- 🎓 **5th semester Computer Science student**
-- 💻 **Full-stack developer** comfortable with both backend and frontend
-- 🔥 **Always learning** new technologies and best practices
-- 😄 **Fun fact:** I debug my code better after looking at memes
 
 ## 🛠️ Tech Stack
 
@@ -65,10 +58,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dankvid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/dankvid">dankvid</a></i>
 </div>
