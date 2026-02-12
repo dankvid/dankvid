@@ -43,18 +43,3 @@
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
 </div>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david@d-genzler.de)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.d-genzler.de)
-
-</div>
-
-## 📊 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dankvid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
