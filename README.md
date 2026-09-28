@@ -1,7 +1,7 @@
 # Hi there, I'm David! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Code+Enthusiast;Meme+Connoisseur;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Code+Enthusiast;Meme+Connoisseur;Always+Learning!" alt="Typing SVG" />
 </div>
 
 ## 🛠️ Tech Stack
